@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Collectomatic</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="add_photo">+ Add Photo</string>
+    <string name="urgent">Urgent</string>
+    <string name="show_my_history">Show my history</string>
+    <string name="write_your_notes">Write Your Notes</string>
+    <string name="claim_now">Claim Now</string>
+    <string name="address">Address</string>
+    <string name="claim_date_time">Claim Date Time</string>
+    <string name="status">Status</string>
+    <string name="authentic">Authentic</string>
+    <string name="enter_the_code_that_was_send_to">Enter the code that was send to</string>
+
+</resources>
